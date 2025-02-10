@@ -20,3 +20,6 @@
 - ใช้ ngrok เพื่อสร้าง tunnel สำหรับการเรียกใช้งานจากภายนอก
 - นำ url webhook ที่ได้ ไปใส่ใน LINE Developer Console
 - ทดสอบแล้วสามารถใช้คำสั่ง firebase deploy เพื่อ deploy functions แล้วนำ webhook ที่ได้ ไปใส่ใน LINE Developer Console
+
+รายละเอียดให้ลองทำตามวิดีโอนี้ได้
+Video: https://youtu.be/OSmf5q8K1eY
